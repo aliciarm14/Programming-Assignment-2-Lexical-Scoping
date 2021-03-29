@@ -1,6 +1,3 @@
-
-
-
 makeCacheMatrix <- function( m = matrix() ) {
   
   ## Inicializar la matriz inversa
